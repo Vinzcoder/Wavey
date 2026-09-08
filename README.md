@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/icon.png" width="64" height="64" alt="Wavey Logo">
+  <img src="icon.png" width="64" height="64" alt="Wavey Logo">
   <h1>Wavey</h1>
   <p><strong>A Node.js & Chromium-based browser with built-in uBlock Origin.</strong></p>
 </div>
